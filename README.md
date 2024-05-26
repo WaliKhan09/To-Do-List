@@ -61,7 +61,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 1. **Fork the Project:**
     ```sh
-    git fork https://github.com/your-username/your-repo-name.git
+    git fork https://github.com/WaliKhan09/To-Do-List.git
     ```
 2. **Create your Feature Branch:**
     ```sh

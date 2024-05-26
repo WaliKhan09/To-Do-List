@@ -81,6 +81,6 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - your-email@example.com
+Mohammad Wali Khan - [@khanbaba_09](https://x.com/khanbaba_09) - walikhanait@gmail.com
 
-Project Link: [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+Project Link: [https://github.com/WaliKhan09/To-Do-List](To-Do List)

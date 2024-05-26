@@ -83,4 +83,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Mohammad Wali Khan - [@khanbaba_09](https://x.com/khanbaba_09) - walikhanait@gmail.com
 
-Project Link: [https://github.com/WaliKhan09/To-Do-List](To-Do List)
+Project Link: [https://github.com/WaliKhan09/To-Do-List](https://github.com/WaliKhan09/To-Do-List)
